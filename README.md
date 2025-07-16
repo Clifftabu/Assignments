@@ -1,4 +1,5 @@
 Assignments:
+
 (Python assignments for ICS-2025 to practice recursion, object-oriented programming, and applying algorithms in clear, structured scripts.)
 All files are organized in the main branch for easy cloning and local testing.
 
